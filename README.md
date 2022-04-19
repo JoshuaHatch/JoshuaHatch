@@ -1,5 +1,5 @@
 ### Hi there 👋
-![I am GitHub Readme Generator's creator](https://i1.wp.com/www.burning-glass.com/wp-content/uploads/coding_400x267-1.jpg?fit=400%2C267&ssl=1)![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/673569494467215386/966043201192468530/flying_Underdog.jpg)
+![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/673569494467215386/966043201192468530/flying_Underdog.jpg)
 
 <h1 align="center">Hi 👋, My name is Joshua Hatch</h1>
 <h3 align="center">A cool and upcoming programmer who is a talented 2d artist.</h3>
