@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I began my career as an artist before going into coding!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> JoshuaHatch45@gmail.com
 <p align="left">
 </p>
 
