@@ -1,5 +1,5 @@
 ### Hi there 👋
-![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/673569494467215386/966043827255271504/grim_and_blackula_dancing.gif)
+![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/673569494467215386/966043827255271504/grim_and_blackula_dancing.gif) ![I am GitHub Readme Generator's creator](https://cdn.discordapp.com/attachments/673569494467215386/966044162854105108/dancing_duck.gif)
 
 <h1 align="center">Hi 👋, My name is Joshua Hatch</h1>
 <h3 align="center">A cool and upcoming programmer who is a talented 2d artist.</h3>
